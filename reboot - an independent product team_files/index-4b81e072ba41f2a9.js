@@ -517,7 +517,7 @@
                   children: (0, a.jsx)("h1", {
                     className:
                       "max-w-[324px] text-[28px] font-bold leading-[115%]",
-                    children: "an independent product team",
+                    children: "an independent collective of builders",
                   }),
                 }),
                 (0, a.jsxs)("div", {
@@ -615,8 +615,7 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children:
-                        "Passionate about open source and committed to public goods.",
+                      children: "Committed to open source and public value.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -645,7 +644,7 @@
                         duration: 1,
                         ease: j.m,
                       },
-                      children: "We don't have time to build a fancy site.",
+                      children: "Committed to open source and public value.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -656,7 +655,8 @@
                         duration: 1,
                         ease: j.m,
                       },
-                      children: "Here is where we spent it.",
+                      children:
+                        "Leading the way in web3 exploration, one data point at a time.",
                     }),
                   ],
                 }),
