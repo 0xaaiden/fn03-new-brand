@@ -545,7 +545,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We experiment with on-chain data, crafting research and tools for decentralized realms.",
+                        "We experiment with on-chain data, crafting research and tools for everyone.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px] ",
@@ -615,7 +615,7 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "Committed to open source and public value.",
+                      children: "Committed to open source and public goods.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -644,7 +644,7 @@
                         duration: 1,
                         ease: j.m,
                       },
-                      children: "Committed to open source and public value.",
+                      children: "Committed to open source and public goods.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
