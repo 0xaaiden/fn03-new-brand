@@ -504,7 +504,7 @@
                 (0, a.jsx)("section", {
                   className: "mt-2 overflow-hidden",
                   children: (0, a.jsx)(L, {
-                    initialState: "an independent product team",
+                    initialState: "an independent collective of builders",
                   }),
                 }),
                 (0, a.jsx)(r.E.div, {
@@ -574,7 +574,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We are data aficionados. Engineers. Analysts. Researchers. Web3 advocates.",
+                        "Engineers. Analysts. Researchers. Web3 advocates.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -586,7 +586,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We experiment with on-chain data, crafting research and tools for decentralized realms.",
+                        "We dive into on-chain data, making useful tools and research for everyone.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -598,7 +598,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We develop our own ideas and partner with ambitious founders and protocols.",
+                        "We develop our ideas and partner with ambitious protocols.",
                     }),
                   ],
                 }),
@@ -616,7 +616,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We're passionate about open source and committed to contributing to public goods.",
+                        "Passionate about open source and committed to public goods.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
