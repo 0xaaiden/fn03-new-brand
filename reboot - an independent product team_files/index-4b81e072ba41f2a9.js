@@ -533,7 +533,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We are product enthusiasts. Builders. Engineers. Designers. Degens.",
+                        "We are data aficionados. Engineers. Analysts. Researchers. Web3 advocates.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -545,7 +545,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We develop our own ideas and partner with ambitious founders and protocols.",
+                        "We experiment with on-chain data, crafting research and tools for decentralized realms.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px] ",
@@ -556,7 +556,8 @@
                         duration: 1,
                         ease: j.m,
                       },
-                      children: "We shape the future one product at a time.",
+                      children:
+                        "We develop our own ideas and partner with ambitious founders and protocols.",
                     }),
                   ],
                 }),
@@ -572,7 +573,8 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "We are insatiable product enthusiasts.",
+                      children:
+                        "We are data aficionados. Engineers. Analysts. Researchers. Web3 advocates.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -583,7 +585,8 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "Builders. Creatives. Designers. Engineers.",
+                      children:
+                        "We experiment with on-chain data, crafting research and tools for decentralized realms.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -594,7 +597,8 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "Develop our ideas and partner with founders.",
+                      children:
+                        "We develop our own ideas and partner with ambitious founders and protocols.",
                     }),
                   ],
                 }),
@@ -611,7 +615,8 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "We don't have time to build a fancy site.",
+                      children:
+                        "We're passionate about open source and committed to contributing to public goods.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -622,7 +627,8 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "Here is where we spent it.",
+                      children:
+                        "Leading the way in web3 exploration, one data point at a time.",
                     }),
                   ],
                 }),
