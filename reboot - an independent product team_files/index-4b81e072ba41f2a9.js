@@ -545,7 +545,7 @@
                         ease: j.m,
                       },
                       children:
-                        "We experiment with on-chain data, crafting research and tools for everyone.",
+                        "We experiment with on-chain data to develop research and exploration tools for decentralized networks.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px] ",
@@ -573,8 +573,7 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children:
-                        "Engineers. Analysts. Researchers. Web3 advocates.",
+                      children: "Engineers & Web3 advocates.",
                     }),
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
@@ -586,20 +585,20 @@
                         ease: j.m,
                       },
                       children:
-                        "We dive into on-chain data, making useful tools and research for everyone.",
+                        "We experiment with on-chain data to develop research and exploration tools for decentralized networks. We develop our ideas and partner with ambitious protocols.",
                     }),
-                    (0, a.jsx)(r.E.p, {
-                      className: "text-[15px]",
-                      initial: { opacity: 1 },
-                      animate: { opacity: 1 },
-                      transition: {
-                        delay: l ? 0.8 : 0.2,
-                        duration: 0.5,
-                        ease: j.m,
-                      },
-                      children:
-                        "We develop our ideas and partner with ambitious protocols.",
-                    }),
+                    // (0, a.jsx)(r.E.p, {
+                    //   className: "text-[15px]",
+                    //   initial: { opacity: 1 },
+                    //   animate: { opacity: 1 },
+                    //   transition: {
+                    //     delay: l ? 0.8 : 0.2,
+                    //     duration: 0.5,
+                    //     ease: j.m,
+                    //   },
+                    //   children:
+                    //     "We develop our ideas and partner with ambitious protocols.",
+                    // }),
                   ],
                 }),
                 (0, a.jsxs)("div", {
