@@ -336,7 +336,7 @@
             product: "Wallet Labelling & Tagging",
             cta: "Open live site",
             video: ["/home/gretel.webm", "/home/gretel.mp4"],
-            url: "https://gretel.co/",
+            url: "https://walletlabels.xyz/",
             poster: "https://i.imgur.com/HCqtII7.png",
           },
           {
@@ -344,7 +344,7 @@
             product: "Zero-ETL Indexer",
             cta: "Open live site",
             video: ["/home/latitude.webm", "/home/latitude.mp4"],
-            url: "https://smoldata.xye/",
+            url: "https://smoldata.xyz/",
             poster: "https://i.imgur.com/RKUCvQH.png",
           },
           {
@@ -376,7 +376,7 @@
             product: "AI Web3 Search Engine",
             cta: "Open live site",
             video: ["/home/billbot.webm", "/home/billbot.mp4"],
-            url: "https://apps.apple.com/app/billbot-recurring-expenses/id1523543874",
+            url: "https://withlumia.xyz",
             poster: "https://i.imgur.com/sUSAPMi.png",
           },
         ],
