@@ -614,8 +614,9 @@
                         duration: 0.5,
                         ease: j.m,
                       },
-                      children: "Committed to open source and public goods.",
+                      children: "Committed to open source and public goods. ",
                     }),
+
                     (0, a.jsx)(r.E.p, {
                       className: "text-[15px]",
                       initial: { opacity: 1 },
@@ -627,6 +628,45 @@
                       },
                       children:
                         "Leading the way in web3 exploration, one data point at a time.",
+                    }),
+
+                    // add a line trusted by and chips with names and colors for Aave, Uniswap, Reserve, Cowswap, etc.
+                    (0, a.jsx)(r.E.p, {
+                      className: "text-[15px] pt-8 ",
+                      initial: { opacity: 0 },
+                      animate: { opacity: 1 },
+                      transition: {
+                        delay: l ? 0.9 : 0.5,
+                        duration: 0.5,
+                        ease: j.m,
+                      },
+                      children: "Trusted by:",
+                    }),
+                    (0, a.jsxs)("div", {
+                      className: "flex space-x-2",
+                      
+                      children: [
+                        (0, a.jsx)("span", {
+                          className: "company-name uniswap",
+                          children: "Uniswap Foundation",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name reserve",
+                          children: "Reserve Protocol",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name cowswap",
+                          children: "Cowswap Protocol",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name indexcoop",
+                          children: "IndexCoop",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name others",
+                          children: "...",
+                        }),
+                      ],
                     }),
                   ],
                 }),
@@ -656,6 +696,57 @@
                       },
                       children:
                         "Leading the way in web3 exploration, one data point at a time.",
+                    }),
+                    // add a line trusted by and chips with names and colors for Aave, Uniswap, Reserve, Cowswap, etc.
+                    (0, a.jsx)(r.E.p, {
+                      className: "text-[15px] pt-8 ",
+                      initial: { opacity: 0 },
+                      animate: { opacity: 1 },
+                      transition: {
+                        delay: l ? 0.9 : 0.5,
+                        duration: 0.5,
+                        ease: j.m,
+                      },
+                      children: "Trusted by:",
+                    }),
+                    (0, a.jsxs)("div", {
+                      className: "flex space-x-2",
+                      initial: { opacity: 0 },
+                      animate: { opacity: 1 },
+                      transition: {
+                        delay: l ? 0.9 : 0.5,
+                        duration: 0.5,
+                        ease: j.m,
+                      },
+                      children: [
+                        (0, a.jsx)("span", {
+                          initial: { opacity: 0 },
+                          animate: { opacity: 1 },
+                          transition: {
+                            delay: l ? 0.9 : 0.5,
+                            duration: 0.5,
+                            ease: j.m,
+                          },
+                          className: "company-name uniswap",
+                          children: "Uniswap Foundation",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name reserve",
+                          children: "Reserve Protocol",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name cowswap",
+                          children: "Cowswap Protocol",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name indexcoop",
+                          children: "IndexCoop",
+                        }),
+                        (0, a.jsx)("span", {
+                          className: "company-name others",
+                          children: "...",
+                        }),
+                      ],
                     }),
                   ],
                 }),

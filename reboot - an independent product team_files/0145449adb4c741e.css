@@ -1311,3 +1311,65 @@ video {
 .__variable_de0c8f {
   --suisse-book: "__suisseFont_de0c8f", "__suisseFont_Fallback_de0c8f";
 }
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Basic styling for all company names */
+.company-name {
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 15px;
+
+
+    animation-name: fadeIn;
+    animation-duration: 1s; /* Based on the provided 'duration' */
+    animation-timing-function: cubic-bezier(0.4, 0.0, 0.2, 1); /* This is an 'easeInOut' curve, replace with the desired easing if known */
+    animation-delay: 1s; /* Default delay; this might need adjustments */
+    animation-iteration-count: 1;
+        animation-fill-mode: forwards; /* Important: This ensures the animation's end state persists */
+
+    opacity: 0; 
+    cursor: pointer;
+    background-clip: text;
+    -webkit-background-clip: text !important;
+    color: transparent;  }
+
+.company-name:hover {
+    opacity: 0.8;
+}
+
+/* Aave - blue gradient */
+.aave {
+    background: linear-gradient(90deg, #2ebac6, #2763dc);
+}
+
+/* Uniswap - pink to purple gradient */
+.uniswap {
+    background: linear-gradient(90deg, #ff007a, #5d5dc4);
+}
+
+/* Reserve - green gradient for example */
+.reserve {
+    background: linear-gradient(90deg, #00d395, #009b71);
+}
+
+/* Cowswap - brown gradient for fun */
+.cowswap {
+    background: linear-gradient(90deg, #a67244, #603b20);
+}
+
+/* IndexCoop - Purple  */
+.indexcoop {
+    background: linear-gradient(90deg, #7811c7, #4c4c4c);
+}
+
+.others {
+    background: linear-gradient(90deg, #000000, #7a7878);
+}
