@@ -330,58 +330,17 @@
             children: t,
           });
         },
-        /*         C = [
+        C = [
           {
-            name: "WalletLabels",
-            product: "Wallet Labelling & Tagging",
-            cta: "Open live site",
-            video: ["/home/gretel.webm", "/home/gretel.mp4"],
-            url: "https://walletlabels.xyz/",
-            poster: "https://i.imgur.com/HCqtII7.png",
+            name: "",
+            product: "",
+            cta: "",
+            video: [""],
+            url: "",
+            poster: "",
           },
-          {
-            name: "Smoldata",
-            product: "Zero-ETL Indexer",
-            cta: "Open live site",
-            video: ["/home/latitude.webm", "/home/latitude.mp4"],
-            url: "https://smoldata.xyz/",
-            poster: "https://i.imgur.com/RKUCvQH.png",
-          },
-          {
-            name: "UniChat AI",
-            product: "AI Chatbot on Uniswap v3",
-            cta: "Open live site",
-            video: ["/home/billbot.webm", "/home/billbot.mp4"],
-            url: "https://unichat.fn03.xyz",
-            poster: "https://i.imgur.com/3D9fYMh.png",
-          },
-          {
-            name: "CowTools",
-            product: "Analytics & Monitoring",
-            cta: "Open live site",
-            video: ["/home/freshis.webm", "/home/freshis.mp4"],
-            url: "https://cowtools.info",
-            poster: "https://i.imgur.com/aVorMD4.png",
-          },
-          {
-            name: "Web3Deals",
-            product: "Data Aggregator",
-            cta: "Open live site",
-            video: ["/home/ninja-video.webm", "/home/ninja-video.mp4"],
-            url: "https://web3deals.info",
-            poster: "https://i.imgur.com/Jfld0ur.png",
-          },
-          {
-            name: "Search With Lumia",
-            product: "AI Web3 Search Engine",
-            cta: "Open live site",
-            video: ["/home/billbot.webm", "/home/billbot.mp4"],
-            url: "https://withlumia.xyz",
-            poster: "https://i.imgur.com/sUSAPMi.png",
-          },
-        ], */
-        C = [{}];
-      //N = C.slice(0, -1);
+        ],
+        N = C.slice(0, -1);
       function E() {
         let { scrollY: e } = (0, f.v)(),
           t = (0, y.H)(e, (e) => -e),
