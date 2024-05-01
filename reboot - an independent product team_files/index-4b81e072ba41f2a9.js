@@ -330,7 +330,7 @@
             children: t,
           });
         },
-        C = [
+        /*         C = [
           {
             name: "WalletLabels",
             product: "Wallet Labelling & Tagging",
@@ -379,8 +379,9 @@
             url: "https://withlumia.xyz",
             poster: "https://i.imgur.com/sUSAPMi.png",
           },
-        ],
-        N = C.slice(0, -1);
+        ], */
+        C = [{}];
+      N = C.slice(0, -1);
       function E() {
         let { scrollY: e } = (0, f.v)(),
           t = (0, y.H)(e, (e) => -e),
@@ -480,7 +481,7 @@
           l = (0, h.R)((e) => e.initialRender);
         (0, H.v)();
         let p = () => {
-          navigator.clipboard.writeText("hey@fn03.xyz").then(() => {
+          navigator.clipboard.writeText("support@fn03.xyz").then(() => {
             s(!0), setTimeout(() => s(!1), 3e3);
           });
         };
@@ -644,7 +645,7 @@
                     }),
                     (0, a.jsxs)("div", {
                       className: "flex space-x-2",
-                      
+
                       children: [
                         (0, a.jsx)("span", {
                           className: "company-name uniswap",
@@ -804,7 +805,7 @@
                               },
                               className:
                                 "font-medium underline transition-opacity duration-700 group-hover:!opacity-100 group-hover/footer:opacity-30 md:no-underline",
-                              children: "hey@fn03.xyz",
+                              children: "support@fn03.xyz",
                             }),
                           ],
                         }),
@@ -831,6 +832,32 @@
                             className:
                               "font-medium underline transition-opacity duration-700 group-hover:!opacity-100 group-hover/footer:opacity-30 md:no-underline",
                             children: "twitter.",
+                          }),
+                        ],
+                      }),
+                    }),
+                    // add checkout our projects [GITHUB ICON] on github
+                    (0, a.jsx)("a", {
+                      href: "https://github.com/function03-labs",
+                      target: "_blank",
+                      rel: "noreferrer",
+                      className: "block",
+                      children: (0, a.jsxs)("p", {
+                        className: "group",
+                        children: [
+                          (0, a.jsxs)("span", {
+                            className:
+                              "transition-opacity duration-700 group-hover/footer:opacity-30",
+                            children: ["Checkout our projects on", " "],
+                          }),
+                          (0, a.jsx)("span", {
+                            style: {
+                              // bold
+                              fontWeight: "bold",
+                            },
+                            className:
+                              "font-medium underline transition-opacity duration-700 group-hover:!opacity-100 group-hover/footer:opacity-30 md:no-underline",
+                            children: "github.",
                           }),
                         ],
                       }),
