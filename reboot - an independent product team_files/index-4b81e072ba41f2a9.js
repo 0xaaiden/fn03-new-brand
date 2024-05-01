@@ -812,7 +812,7 @@
                       ],
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://twitter.com/aiden0x4",
+                      href: "https://twitter.com/function03labs",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "block",
