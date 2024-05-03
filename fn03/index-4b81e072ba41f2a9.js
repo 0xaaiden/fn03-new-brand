@@ -770,7 +770,7 @@
                       ],
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://twitter.com/aiden0x4",
+                      href: "https://twitter.com/function03labs",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "block",
@@ -837,16 +837,6 @@
                 }),
               ],
             }),
-            N.map((e) =>
-              (0, a.jsx)(
-                "div",
-                {
-                  className:
-                    "mb-8 hidden h-[calc((4/3)*(100vh-537.5px))] max-h-[calc(420px*(4/3))] min-h-[calc(278px*(4/3))] bg-transparent last:mb-0 last:h-[calc(((4/3)*(100vh-537.5px))-154px)] last:max-h-[calc((447px*(4/3))+(100vh-1150px))] last:min-h-[calc((278px*(4/3))+(100vh-1452px))] md:flex",
-                },
-                e.name
-              )
-            ),
           ],
         });
       }
