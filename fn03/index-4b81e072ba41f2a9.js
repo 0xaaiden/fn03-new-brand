@@ -805,7 +805,7 @@
                           (0, a.jsxs)("span", {
                             className:
                               "transition-opacity duration-700 group-hover/footer:opacity-30",
-                            children: ["Checkout our projects on", " "],
+                            children: ["Check out our projects on", " "],
                           }),
                           (0, a.jsx)("span", {
                             style: {
